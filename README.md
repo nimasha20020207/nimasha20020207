@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimasha Karunarathne</h1>
+<h1 align="center">Hi, I'm Nimasha Karunarathne</h1>
 <h3 align="center">Undergraduate IT student at SLIIT</h3>
 
 - 📫 How to reach me **nimashakarunarathne61@gmail.com**
